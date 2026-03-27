@@ -1,0 +1,2 @@
+# projectC
+c programming practice
